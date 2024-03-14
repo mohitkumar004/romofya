@@ -1,0 +1,126 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0;
+}
+
+.logo {
+    font-family: 'Righteous', cursive;
+}
+
+:root .top-color {
+    background-color: #ecf3fc;
+}
+
+.dark-bg {
+    background-color: #183661;
+}
+
+.white-text {
+    color: white;
+}
+
+.dark-text {
+    color: #183661;
+}
+
+.yellow {
+    color: #f2c119;
+}
+
+.dark-yellow {
+    background-color: #f3a20d;
+}
+
+.yellow-bg {
+    background-color: #f2c119;
+}
+
+.blue-bg {
+    background-color: #1d37fd;
+}
+
+.size {
+    width: 24px;
+}
+
+.top-bg {
+    background-image: url(images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    padding: 0 !important;
+    margin: 0% !important;
+}
+
+
+
+.navbar-expand-sm {
+    margin: 0% !important;
+}
+
+.nav-link {
+    color: white !important;
+    padding: 31.5px 24px 29px 24px;
+    font-size: 17px;
+    line-height: 20px;
+    font-weight: 400;
+    margin-bottom: 0% !important;
+    text-transform: uppercase;
+    transition: all ease-in-out 1.2s;
+
+}
+
+.nav-link:hover {
+    background-color: #f2c119;
+    color: #f2f2f2;
+}
+
+.under-line {
+
+    margin-bottom: 40px;
+    padding-bottom: 5px;
+    border-bottom: #f2c119 solid 5px;
+}
+
+.active {
+    background-color: #f2c119;
+    color: #f2f2f2;
+}
+
+.p-bg {
+    background-color: #f2f2f2;
+}
+
+.under-line2 {
+    border-bottom: #f2c119 solid 1px;
+    padding-bottom: 4px;
+
+}
+
+.gift {
+    border-radius: 25px;
+    margin-bottom: -100px !important;
+}
+
+.btn:hover {
+    background-color: #f2c119;
+    transition: all ease-in-out 1.2s;
+    color: #f2f2f2;
+    font-weight: bold;
+}
+
+.contact {
+    padding: 1rem;
+    border: 1px solid black;
+    box-shadow: 0 0 5px rgba(243, 195, 30, 0.5);
+}
+
+.contactt {
+    height: 7rem;
+    padding: 1rem;
+    border: 1px solid black;
+    box-shadow: 0 0 5px rgba(243, 195, 30, 0.5);
+}
